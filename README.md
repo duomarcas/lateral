@@ -1,0 +1,2 @@
+# lateral
+GitHub Pages
